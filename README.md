@@ -14,10 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 - Open-source tools or libraries in C, Python, or Rust—especially anything involving embedded systems, web backends, or CLI utilities.
 - Hackathons or challenges focused on systems programming.
 
-## 🤔 What I'm Looking for Help With
-- Best practices for interoperability between C and Rust in large-scale projects.
-- Tips on scaling Python applications for production environments.
-
 ## 🛠️ Some of the Languages & Tools I Know
 - **C**: For performance-critical code and embedded systems.
 - **Python**: Versatile scripting, automation, and data science.
