@@ -230,15 +230,17 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%203%20mins-blue?style=for-the-badge)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 45 mins       █████████████░░░░░░░░░░░░   50.33 % 
-Markdown                 8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.48 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Nushell                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python                   13 hrs 31 mins      ██████████████░░░░░░░░░░░   56.19 % 
+Markdown                 8 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.36 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 **I Mostly Code in Rust** 
