@@ -230,33 +230,33 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2030%20mins-blue?style=for-the-badge)
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages:
-Python                   8 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.20 %
-Markdown                 7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.39 %
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+💬 Programming Languages: 
+Python                   9 hrs 45 mins       █████████████░░░░░░░░░░░░   50.33 % 
+Markdown                 8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.48 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Nushell                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
-**I Mostly Code in Rust**
+**I Mostly Code in Rust** 
 
 ```text
-Rust                     11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 %
-Jupyter Notebook         7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Slint                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Jupyter Notebook         6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
+
+
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/ferozeren/ferozeren/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/ferozeren/ferozeren/master/assets/bar_graph.png)
+
 
 <!--END_SECTION:waka-->
 
