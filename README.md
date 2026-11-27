@@ -246,11 +246,11 @@ jsonc                    4 mins              ░░░░░░░░░░░�
 **I Mostly Code in Rust** 
 
 ```text
-Jupyter Notebook         6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Jupyter Notebook         7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
